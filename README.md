@@ -15,7 +15,6 @@ Skills: Python, R, SQL, Machine Learning, Data Visualization.
 Tools & Technologies: TensorFlow, scikit-learn, PoweBI, Excel.
 📂 Featured Projects
 1. House price prediction
-Description: [Brief description of the project.]
 Highlights: Use linear regression to estimate prices and average prices
 
 
